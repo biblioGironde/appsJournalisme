@@ -27,7 +27,7 @@ Jeu en anglais. Une inondation frappe une petite ville du Wisconsin, et vous ave
 
 ## Bad News Junior (en anglais)
 <br>
-<img src="images/bad-news-junior.png" alt="Illustration" width="300">
+<img src="https://belux-edmo.s3-accelerate.amazonaws.com/wp-content/uploads/2023/02/bad-news.png" alt="Illustration" width="300">
 <br>
 &rarr; <a href="https://www.getbadnewsjunior.com/">Accéder au site</a>
 <br>
