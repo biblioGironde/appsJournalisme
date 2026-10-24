@@ -27,7 +27,7 @@ Dans la peau de la journaliste Camille Investigation, affrontez un adversaire su
 
 ## Headlines and High Water (en anglais)
 <br>
-<img src="[https://s3.amazonaws.com/production2.sciencegamecenter.org/games/boxarts/000/000/380/medium/Screen_Shot_2024-01-10_at_1.49.37_PM.png?1704916209" alt="Illustration" width="300">
+<img src="https://s3.amazonaws.com/production2.sciencegamecenter.org/games/boxarts/000/000/380/medium/Screen_Shot_2024-01-10_at_1.49.37_PM.png?1704916209" alt="Illustration" width="300">
 <br>
 &rarr; <a href="https://fielddaylab.wisc.edu/play/headlines">Accéder au site</a>
 <br>
