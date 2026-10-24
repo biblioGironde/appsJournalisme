@@ -7,15 +7,6 @@
 Bienvenue à la rédaction du Vrai Journal ! Dans cet escape game, vous êtes journaliste stagiaire et devez vérifier chaque information avant sa publication, contre la montre (le chrono peut être désactivé). Un mode facile permet aux plus jeunes de s'initier au fact-checking. Conçu par l'association angevine Report'Cité. À partir du collège.
 <br>
 
-## À la Une
-<br>
-<img src="https://outilstice.com/wp-content/uploads/2016/03/A_la_une.jpg" alt="Illustration" width="300">
-<br>
-&rarr; <a href="https://www.reseau-canope.fr/a-la-une/">Accéder au site</a>
-<br>
-Vous voilà stagiaire au quotidien Libération ! Ce webdocumentaire interactif vous fait suivre un grand reporter : conférence de rédaction du matin, choix des sources et du type d'article, puis participation au choix de la une du lendemain. Conçu par Réseau Canopé et le CLEMI. Pour les adolescents.
-<br>
-
 ## Touche pas à mon intox
 <br>
 <img src="https://img.itch.zone/aW1nLzE4MzE5NzUwLnBuZw==/original/idi9CZ.png" alt="Illustration" width="300">
