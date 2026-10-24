@@ -25,18 +25,9 @@ Vous voilà stagiaire au quotidien Libération ! Ce webdocumentaire interactif v
 Dans la peau de la journaliste Camille Investigation, affrontez un adversaire sur un plateau télé. Préparez vos arguments en sélectionnant des articles de presse, puis démontez ses affirmations trompeuses au bon moment. Jouable à la souris ou au doigt. Conçu lors du Ludocamp 2024 par La Science Entre En Jeu.
 <br>
 
-## BBC iReporter (en anglais)
-<br>
-<img src="images/bbc-ireporter.png" alt="Illustration" width="300">
-<br>
-&rarr; <a href="https://www.bbc.co.uk/news/resources/idt-8760dd58-84f9-4c98-ade2-590562670096">Accéder au site</a>
-<br>
-Jeu en anglais. Vous venez d'être embauché dans l'équipe réseaux sociaux d'une agence de presse, en pleine information de dernière minute. Trier, vérifier, publier : chaque décision vous fait gagner ou perdre des points en justesse, en impact et en rapidité. Conçu par la BBC. À partir de 12 ans.
-<br>
-
 ## Headlines and High Water (en anglais)
 <br>
-<img src="[images/headlines-high-water.png](https://s3.amazonaws.com/production2.sciencegamecenter.org/games/boxarts/000/000/380/medium/Screen_Shot_2024-01-10_at_1.49.37_PM.png?1704916209)" alt="Illustration" width="300">
+<img src="[https://s3.amazonaws.com/production2.sciencegamecenter.org/games/boxarts/000/000/380/medium/Screen_Shot_2024-01-10_at_1.49.37_PM.png?1704916209" alt="Illustration" width="300">
 <br>
 &rarr; <a href="https://fielddaylab.wisc.edu/play/headlines">Accéder au site</a>
 <br>
